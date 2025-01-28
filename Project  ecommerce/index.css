@@ -8,6 +8,7 @@
 body{
     background-color: rgb(234, 229, 229);
     overflow-x:hidden ;
+
 }
  nav{
     display: flex;
@@ -16,7 +17,7 @@ body{
     align-items: center;
     justify-content:space-between;
     padding: 10px 20px ;
-    color: white; */
+    color: white; 
 }
 .location{
     font-size: 15px;
